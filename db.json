@@ -3,7 +3,7 @@
    "posts":[
 
       {
-
+         "id":1,
          "title":"Pate au fromage",
 
          "body":"Hello"
@@ -11,7 +11,7 @@
       },
 
       {
-
+         "id":2,
          "title":"Pate au fromage",
 
          "body":"Hello"
